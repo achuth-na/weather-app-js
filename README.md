@@ -8,9 +8,17 @@ A responsive weather application that provides real-time weather information for
   <img src="assets/weather-app.png" alt="Weather App Screenshot" width="400">
 </p>
 
+---
+
 ## 🌐 Live Demo
 
 👉 https://achuth-na.github.io/weather-app-js/
+
+## 📂 Repository
+
+👉 https://github.com/achuth-na/weather-app-js
+
+---
 
 ## ✨ Features
 
@@ -21,6 +29,8 @@ A responsive weather application that provides real-time weather information for
 - 🌬️ Wind speed
 - 📱 Responsive design
 
+---
+
 ## 🛠️ Tech Stack
 
 - HTML5
@@ -28,23 +38,44 @@ A responsive weather application that provides real-time weather information for
 - JavaScript
 - OpenWeather API
 
+---
+
+## 🌍 API Used
+
+This project uses the **OpenWeather API** to fetch real-time weather data.
+
+🔗 https://openweathermap.org/api
+
+---
+
 ## 📁 Project Structure
 
-```
+```text
 weather-app-js/
 ├── assets/
+│   └── weather-app.png
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 ```
 
-## 👨‍💻 Author
+---
+
+## 🚀 Future Improvements
+
+- 📍 Detect user's current location
+- ⭐ Save favorite cities
+- 🌙 Add Dark/Light mode
+- 📅 Display a 7-day weather forecast
+- 🌡️ Toggle between Celsius and Fahrenheit
+
+---
+
+## 🤝 Connect With Me
 
 **Achuth N A**
 
-- Portfolio: https://achuth-na.github.io/
-- LinkedIn: https://www.linkedin.com/in/achuth-n-a-/
-- ## 📂 Repository
+🌐 Portfolio: https://achuth-na.github.io/
 
-👉 https://github.com/achuth-na/weather-app-js
+💼 LinkedIn: https://www.linkedin.com/in/achuth-n-a-/
