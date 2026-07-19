@@ -45,3 +45,6 @@ weather-app-js/
 
 - Portfolio: https://achuth-na.github.io/
 - LinkedIn: https://www.linkedin.com/in/achuth-n-a-/
+- ## 📂 Repository
+
+👉 https://github.com/achuth-na/weather-app-js
